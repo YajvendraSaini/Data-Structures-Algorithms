@@ -20,7 +20,7 @@ int main()
 			// if first character or if last character
 			if (col == 0 || col == 2 * row)
 			{
-				// first character or last character
+				// first character or last character.
 				cout << "*";
 			}
 			else
